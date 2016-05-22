@@ -24,9 +24,9 @@ The file `vector_test.cpp` runs all tests agains the `std::vector` and `std2::ve
 
 ### Catch
 
-Downlaod catch from https://github.com/philsquared/Catch .
+Download the single file header from: https://raw.githubusercontent.com/philsquared/Catch/master/single_include/catch.hpp
 
-Copy the file `catch.hpp` from the folder "single_include" into the folder `extern/catch`
+Copy `catch.hpp` into the folder `extern/catch`.
 
 ### CMake
 

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": ["/usr/include"]
+        },
+        {
+            "name": "Linux",
+            "includePath": ["/usr/include"
+            , "/usr/lib/gcc/x86_64-linux-gnu/4.8/include"
+            , "/usr/local/include"
+            , "/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"
+            , "/usr/include/x86_64-linux-gnu""
+            , "/usr/include" ]
+        },
+        {
+            "name": "Win32",
+            "includePath": ["c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include"]
+        }
+    ]
+}
